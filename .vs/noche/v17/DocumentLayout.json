@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AGUSTO PASCUAL\\source\\repos\\noche\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4421F1BE-E377-4CCA-9616-5719527EFC62}|noche\\noche.csproj|c:\\users\\agusto pascual\\source\\repos\\noche\\noche\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4421F1BE-E377-4CCA-9616-5719527EFC62}|noche\\noche.csproj|solutionrelative:noche\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4421F1BE-E377-4CCA-9616-5719527EFC62}|noche\\noche.csproj|c:\\users\\agusto pascual\\source\\repos\\noche\\noche\\controllers\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4421F1BE-E377-4CCA-9616-5719527EFC62}|noche\\noche.csproj|solutionrelative:noche\\controllers\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\AGUSTO PASCUAL\\source\\repos\\noche\\noche\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "noche\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\AGUSTO PASCUAL\\source\\repos\\noche\\noche\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "noche\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:54:26.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\AGUSTO PASCUAL\\source\\repos\\noche\\noche\\Controllers\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "noche\\Controllers\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\AGUSTO PASCUAL\\source\\repos\\noche\\noche\\Controllers\\Rectangulo.cs",
+              "RelativeToolTip": "noche\\Controllers\\Rectangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:52:30.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
